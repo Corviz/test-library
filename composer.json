@@ -1,0 +1,27 @@
+{
+  "name": "corviz/test-library",
+  "description": "This is only a test!",
+  "type": "corviz-library",
+  "require": {
+    "corviz/framework": "*@alpha",
+    "corviz/corviz-lib-installer-plugin": "*@dev"
+  },
+  "autoload": {
+    "psr-4": {
+      "\\Corviz\\TestLib\\": "src"
+    }
+  },
+  "extra": {
+    "providers": [
+      "\\Corviz\\TestLib\\TestProvider"
+    ],
+    "middleware": {
+      "test-middleware": "\\Corviz\\TestLib\\TestProvider"
+    }
+  },
+  "config": {
+    "allow-plugins": {
+      "corviz/corviz-lib-installer-plugin": true
+    }
+  }
+}
