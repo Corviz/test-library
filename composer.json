@@ -16,7 +16,7 @@
       "\\Corviz\\TestLib\\TestProvider"
     ],
     "middleware": {
-      "test-middleware": "\\Corviz\\TestLib\\TestProvider"
+      "test-middleware": "\\Corviz\\TestLib\\TestMiddleware"
     }
   },
   "config": {

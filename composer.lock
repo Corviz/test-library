@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8670f85330e69549743c48326f05b331",
+    "content-hash": "cb293b3cb7c3ad6a6dc3ebe4cf4ae195",
     "packages": [
         {
             "name": "corviz/corviz-lib-installer-plugin",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Corviz/corviz-lib-intaller-plugin.git",
-                "reference": "eb5d4ed5eac44e970d2fb72e165eddcec1c906dd"
+                "reference": "d7a3f9fe7cdc5dc1b6b4afe7f199790ab1b87e01"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Corviz/corviz-lib-intaller-plugin/zipball/eb5d4ed5eac44e970d2fb72e165eddcec1c906dd",
-                "reference": "eb5d4ed5eac44e970d2fb72e165eddcec1c906dd",
+                "url": "https://api.github.com/repos/Corviz/corviz-lib-intaller-plugin/zipball/d7a3f9fe7cdc5dc1b6b4afe7f199790ab1b87e01",
+                "reference": "d7a3f9fe7cdc5dc1b6b4afe7f199790ab1b87e01",
                 "shasum": ""
             },
             "require": {
@@ -46,7 +46,7 @@
                 "issues": "https://github.com/Corviz/corviz-lib-intaller-plugin/issues",
                 "source": "https://github.com/Corviz/corviz-lib-intaller-plugin/tree/main"
             },
-            "time": "2022-03-23T00:06:31+00:00"
+            "time": "2022-03-23T00:23:42+00:00"
         },
         {
             "name": "corviz/framework",
